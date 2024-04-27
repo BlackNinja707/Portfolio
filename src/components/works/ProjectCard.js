@@ -9,7 +9,7 @@ export default function ProjectCard({ imgSrc, title, description, repoLink, sour
     <div className="relative flex max-w-xs flex-col rounded-lg border border-gray-200 shadow-md dark:border-gray-700 dark:bg-neutral-800/70">
       <img className="h-[150px] w-full rounded-t-lg object-cover" src={imgSrc} alt={title} />
 
-      <div className="p-5">
+      <div className="p-5 pb-16">
         <h1 className="mb-2 text-lg font-semibold  text-gray-900 dark:text-white">{title}</h1>
         <p className="mb-3 text-sm font-normal text-gray-700 dark:text-gray-400">{description}</p>
 
@@ -22,7 +22,7 @@ export default function ProjectCard({ imgSrc, title, description, repoLink, sour
         )}
       </div>
       {(sourceLink !== '' || repoLink !== '') && (
-        <div className="absolute bottom-5 right-5 flex items-center space-x-10">
+        <div className="absolute bottom-5 right-5 flex items-center space-x-6">
           {repoLink !== '' && (
             <a
               href={repoLink}
