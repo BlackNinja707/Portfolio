@@ -131,7 +131,7 @@ export const PROJECTS = [
     category: [PROJECT_CATEGORY.Blockchain],
   },
   {
-    imgSrc: './assets/Image/Larix.png',
+    imgSrc: './assets/Image/larix.png',
     title: 'The Lending gateway of Solana',
     description:
       'Larix is the ultimate lending gateway on Solana, adopted a dynamic interest rate model and created more capital-efficient risk management pools',
