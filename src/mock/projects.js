@@ -109,7 +109,8 @@ export const PROJECTS = [
   {
     imgSrc: './assets/Image/sidusheroes.jpg',
     title: 'SIDUS Heroes',
-    description: '',
+    description:
+      'SIDUS HEROES is a GameFi web3 Publisher (2023 golden excellence award winner in UAE) building a unique metaverse ecosystem with multiple games of various genres that share a single recognizable lore and in game token “Sidus” and DAO governance token "Senate"',
     sourceLink: 'https://sidusheroes.com/project/',
     category: [PROJECT_CATEGORY.Blockchain],
   },
@@ -127,6 +128,24 @@ export const PROJECTS = [
     description: 'StarkMeta NFT marketplace using React, Typescript, Solidity, ERC721',
     repoLink: 'https://github.com/AlterShadow/NFTMarketplace-SC',
     sourceLink: 'https://stark-marketplace.vercel.app/',
+    category: [PROJECT_CATEGORY.Blockchain],
+  },
+  {
+    imgSrc: './assets/Image/Larix.png',
+    title: 'The Lending gateway of Solana',
+    description:
+      'Larix is the ultimate lending gateway on Solana, adopted a dynamic interest rate model and created more capital-efficient risk management pools',
+    repoLink: 'https://github.com/AlterShadow/NFTMarketplace-SC',
+    sourceLink: 'https://projectlarix.com/',
+    category: [PROJECT_CATEGORY.Blockchain],
+  },
+  {
+    imgSrc: './assets/Image/Tulip.png',
+    title: 'Solana Yield Aggregation Homestead',
+    description:
+      'Tulip Protocol currently offers three types of yield products, “Vaults”, “Lending” & “Leveraged Farming”.',
+    repoLink: 'https://github.com/AlterShadow/NFTMarketplace-SC',
+    sourceLink: 'https://tulip.garden/leverage',
     category: [PROJECT_CATEGORY.Blockchain],
   },
 ];

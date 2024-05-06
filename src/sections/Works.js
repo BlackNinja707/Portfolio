@@ -34,11 +34,11 @@ export default function Works() {
   return (
     <>
       <section className="container mx-auto mt-16 space-x-5 space-y-10 pb-16 sm:pb-16 md:space-x-0">
-        <HeadingAnimate amount={1}>
-          <h2 className="text-center font-lato text-3xl font-semibold text-primary-700 dark:text-primary-300 sm:text-4xl">
-            Recent Works
-          </h2>
-        </HeadingAnimate>
+        {/* <HeadingAnimate amount={1}> */}
+        <h2 className="text-center font-lato text-3xl font-semibold text-primary-700 dark:text-primary-300 sm:text-4xl">
+          Recent Works
+        </h2>
+        {/* </HeadingAnimate> */}
 
         <LoadAnimate amount={0}>
           <div className="flex w-full flex-col items-center">

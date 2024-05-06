@@ -36,11 +36,11 @@ export default function Contact() {
   return (
     <section className="container mx-auto mt-5 px-5 pb-10 pt-12">
       <div className="mb-12 flex w-full flex-col text-center">
-        <HeadingAnimate amount={1}>
-          <h2 className="text-center font-lato text-3xl font-semibold text-primary-700 dark:text-primary-300 sm:text-4xl">
-            Get In Touch
-          </h2>
-        </HeadingAnimate>
+        {/* <HeadingAnimate amount={1}> */}
+        <h2 className="text-center font-lato text-3xl font-semibold text-primary-700 dark:text-primary-300 sm:text-4xl">
+          Get In Touch
+        </h2>
+        {/* </HeadingAnimate> */}
         <LoadAnimate amount={0}>
           <p className="mx-auto mt-5 text-base leading-relaxed opacity-80 md:w-1/2">
             I'm actively looking for any new opportunities, my inbox is always open. Whether you have a question or want
