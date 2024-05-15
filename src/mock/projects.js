@@ -148,4 +148,13 @@ export const PROJECTS = [
     sourceLink: 'https://tulip.garden/leverage',
     category: [PROJECT_CATEGORY.Blockchain],
   },
+  {
+    imgSrc: './assets/Image/solana-nft.png',
+    title: 'Solana pioneering NFT Marketplace that gives back 100% of its fees to the community',
+    description:
+      'HolyGrails is Solana’s first revenue-back-sharing / trade-to-Earn NFT marketplace - distributing 100% of $SOL revenue to Traders and $HOLY tokens to stakers and offers a easy to use NFT Creator tool for everyone to launch NFT Collections easy on SOLANA Blockchain.',
+    repoLink: '',
+    sourceLink: 'https://holygrails.io/',
+    category: [PROJECT_CATEGORY.Blockchain],
+  },
 ];
