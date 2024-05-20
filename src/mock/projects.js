@@ -140,6 +140,14 @@ export const PROJECTS = [
     category: [PROJECT_CATEGORY.Blockchain],
   },
   {
+    imgSrc: './assets/Image/steak.png',
+    title: 'STEAK Protocol',
+    description:
+      'We present the STEAK protocol, a proof of stake (PoS) protocol designed to serve as a sustainable and efficient source of randomness for dApps on the Cardano blockchain',
+    sourceLink: 'https://steakprotocol.com/',
+    category: [PROJECT_CATEGORY.Blockchain],
+  },
+  {
     imgSrc: './assets/Image/Tulip.png',
     title: 'Solana Yield Aggregation Homestead',
     description:

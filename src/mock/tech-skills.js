@@ -207,7 +207,7 @@ export const FRONTEND_DESCRIPTIONS = [
 ];
 
 export const BACKEND_DESCRIPTIONS = [
-  'Writing Smart Contract in Solidity, Rust, Move, FunC on EVM chains, Solana, CosmWasm, Aptos, Sui, TON.',
+  'Writing Smart Contract in Solidity, Rust, Move, FunC on EVM chains, Solana, CosmWasm, Aptos, Sui, Cardano and TON.',
   'Developing server-side logic to handle data processing, authentication, security, and business logic',
   'Building RESTful APIs and GraphQL APIs that allow different components of a web application to communicate with each other',
   'Working with databases to design and optimize database schemas, write complex queries, and ensure data integrity and performance',
