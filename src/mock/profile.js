@@ -16,7 +16,7 @@ export const SOCIAL_LINKS = [
 export const HERO_TITLES = ['Thomas Ken', 'Full-stack & Blockchain Engineer', 'AI Enthusiast'];
 
 export const aboutParagraph =
-  'Highly motivated and enthusiastic Full Stack & Blockchain Engineer with experience in designing, developing and maintaining Web2 & Web3 platforms using technologies such as Solidity, Rust, React, Vue, Next.js';
+  'Highly motivated and enthusiastic Full Stack & Blockchain Engineer with experience in designing, developing and maintaining Web2 & Web3 platforms using technologies such as Solidity, Rust, FunC, Tact, Huskell, React, Next.js, React-Native, Vue, ';
 
 export const contactEmail = 'thomas0xken@gmail.com';
 
