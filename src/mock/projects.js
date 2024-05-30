@@ -28,6 +28,15 @@ const getSkillByLabel = (skills, techLabel) => skills.find(({ label }) => label 
 
 export const PROJECTS = [
   {
+    imgSrc: './assets/Image/Uniton.png',
+    title: 'Simple Staking on TON (Uniton APP)',
+    description:
+      'Simple Staking is a feature that allows Uniton users to engage in single-sided staking of $UTN token within the TON Network. Simple Staking presents an opportunity to generate returns by staking just one kind of asset.',
+    repoLink: 'https://github.com/AlterShadow/Uniton_App',
+    sourceLink: 'https://app.unitontoken.com',
+    category: [PROJECT_CATEGORY.Blockchain],
+  },
+  {
     imgSrc: 'https://images2.imgbox.com/79/5f/S3hu6kJs_o.jpg',
     title: 'Flipkart Clone - E-Commerce Project',
     description:
@@ -54,7 +63,6 @@ export const PROJECTS = [
     sourceLink: '',
     category: [PROJECT_CATEGORY.FULL_STACK],
   },
-
   {
     imgSrc: './assets/Image/adrestus-explorer.png',
     title: 'Adrestus Block Explorer',
