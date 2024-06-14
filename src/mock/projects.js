@@ -101,7 +101,7 @@ export const PROJECTS = [
   },
   {
     imgSrc: './assets/Image/mc2fi.png',
-    title: 'MC2Finance',
+    title: 'MC² Finance',
     description:
       'A Crosschain non-custodial DeFi Platform to simply follow the best token, traders & Institutions, to learn from their content and earn by following their strategies using Vue, Rust, PostgreSQL, WebSocket',
     sourceLink: 'https://app.mc2.fi',
