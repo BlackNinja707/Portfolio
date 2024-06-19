@@ -47,11 +47,11 @@ export const PROJECTS = [
   },
   {
     imgSrc: './assets/Image/portfolio.png',
-    title: 'Developer Portfolio',
+    title: 'My Portfolio',
     description:
       'Simple and classic modern portfolio for who wants to present himself as a software developer. Portfolio build with highly customizable using Tailwind CSS, Next Js.',
     repoLink: 'https://github.com/AlterShadow/DevPortfolio',
-    sourceLink: 'https://thomasken-vercel.app',
+    sourceLink: 'https://thomasken.pro/',
     category: [PROJECT_CATEGORY.FULL_STACK],
   },
   {
