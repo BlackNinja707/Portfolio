@@ -185,7 +185,8 @@ export const PROJECTS = [
   {
     imgSrc: './assets/Image/pdoge_presale.png',
     title: 'Physical Doge Presale on BSC',
-    description: 'Users can buy PDoge Token with USDT or BNB on Physical Doge Presale on BSC.',
+    description:
+      'Users can buy PDoge Token with USDT or BNB on Physical Doge Presale on BSC. Presale, Staking & Token contract in Solidity, Front-End with React, Vite, Typescript, Tailwind CSS, Rainbow kit for Wallet Connect, Wagmi.',
     repoLink: '',
     sourceLink: 'https://presale-bsc-app.vercel.app/',
     category: [PROJECT_CATEGORY.Blockchain],
