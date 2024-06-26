@@ -173,4 +173,13 @@ export const PROJECTS = [
     sourceLink: 'https://holygrails.io/',
     category: [PROJECT_CATEGORY.Blockchain],
   },
+  {
+    imgSrc: './assets/Image/symblox.png',
+    title: 'Collateral Staking on BSC',
+    description:
+      'Symblox provides liquidity for permissionless derivatives like perpetual futures, options, parimutuel markets on BSC. Powering the next generation of permissionless protocols.',
+    repoLink: '',
+    sourceLink: 'https://symblox.ai/',
+    category: [PROJECT_CATEGORY.Blockchain],
+  },
 ];
