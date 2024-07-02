@@ -37,6 +37,15 @@ export const PROJECTS = [
     category: [PROJECT_CATEGORY.Blockchain],
   },
   {
+    imgSrc: './assets/Image/LandX.png',
+    title: 'LandX Perpetual Commodity Vaults Protocol',
+    description:
+      'Commodity vaults provide investors an inflation hedged return backed by a legal contract secured on underlying farmland. LandX makes commodity vaults available as a liquid digital asset.',
+    repoLink: '',
+    sourceLink: 'https://landx.fi/',
+    category: [PROJECT_CATEGORY.Blockchain],
+  },
+  {
     imgSrc: 'https://images2.imgbox.com/79/5f/S3hu6kJs_o.jpg',
     title: 'Flipkart Clone - E-Commerce Project',
     description:
