@@ -46,6 +46,15 @@ export const PROJECTS = [
     category: [PROJECT_CATEGORY.Blockchain],
   },
   {
+    imgSrc: './assets/Image/coincodex.jpg',
+    title: 'CoinCodex - Live Crypto Prices',
+    description:
+      'The CoinCodex app makes it easy to follow Bitcoin, Ethereum, over 10,000 other coins. Join thousands of cryptocurrency user and stay updated with the CoinCodex crypto price tracker and portfolio app.',
+    repoLink: '',
+    sourceLink: 'https://play.google.com/store/apps/details?id=com.coincodex.coincodexapp&hl=en_IN&gl=US',
+    category: [PROJECT_CATEGORY.Blockchain, PROJECT_CATEGORY.FULL_STACK],
+  },
+  {
     imgSrc: 'https://images2.imgbox.com/79/5f/S3hu6kJs_o.jpg',
     title: 'Flipkart Clone - E-Commerce Project',
     description:
@@ -71,6 +80,15 @@ export const PROJECTS = [
     repoLink: 'https://github.com/AlterShadow/E-commerce-Java',
     sourceLink: '',
     category: [PROJECT_CATEGORY.FULL_STACK],
+  },
+  {
+    imgSrc: './assets/Image/OkseWallet.jpg',
+    title: 'Okse Wallet & Card',
+    description:
+      'The Okse Wallet is our way of making the user experience even more streamlined through easier access to different Networks and helping you spend Crypto with Virtual and Physical Debit Cards.',
+    repoLink: 'https://github.com/AlterShadow/privateRepos',
+    sourceLink: 'https://play.google.com/store/apps/details?id=wallet.okse.io&hl=en_US&gl=US',
+    category: [PROJECT_CATEGORY.Blockchain, PROJECT_CATEGORY.FULL_STACK],
   },
   {
     imgSrc: './assets/Image/adrestus-explorer.png',
