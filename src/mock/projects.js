@@ -213,9 +213,18 @@ export const PROJECTS = [
     imgSrc: './assets/Image/pdoge_presale.png',
     title: 'Physical Doge Presale on BSC',
     description:
-      'Users can buy PDoge Token with USDT or BNB on Physical Doge Presale on BSC. Presale, Staking & Token contract in Solidity, Front-End with React, Vite, Typescript, Tailwind CSS, Rainbow kit for Wallet Connect, Wagmi.',
+      'Users can buy $PDOGE Token with USDT or BNB on Physical Doge Presale on BSC. Presale, Staking & Token contract in Solidity, Front-End with React, Vite, Typescript, Tailwind CSS, Rainbow kit for Wallet Connect, Wagmi.',
     repoLink: '',
     sourceLink: 'https://presale-bsc-app.vercel.app/',
+    category: [PROJECT_CATEGORY.Blockchain],
+  },
+  {
+    imgSrc: './assets/Image/soramala_presale.png',
+    title: 'Physical Doge Presale on BSC',
+    description:
+      'Users can buy Soramala Token with USDT or ETH, BNB, Card on Soramala Presale on Solana. Presale, Staking & Token contract in Rust, Front-End with React, Vite, Typescript, Tailwind CSS, MetaMask, Phantom for Wallet Connec.',
+    repoLink: '',
+    sourceLink: 'https://www.soramala.io/en',
     category: [PROJECT_CATEGORY.Blockchain],
   },
 ];
