@@ -220,7 +220,7 @@ export const PROJECTS = [
   },
   {
     imgSrc: './assets/Image/soramala_presale.png',
-    title: 'Physical Doge Presale on BSC',
+    title: 'Soramala Presale on Solana',
     description:
       'Users can buy Soramala Token with USDT or ETH, BNB, Card on Soramala Presale on Solana. Presale, Staking & Token contract in Rust, Front-End with React, Vite, Typescript, Tailwind CSS, MetaMask, Phantom for Wallet Connec.',
     repoLink: '',
