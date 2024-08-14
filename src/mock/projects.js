@@ -117,15 +117,6 @@ export const PROJECTS = [
     sourceLink: 'https://netflix-clone-by-dhaval.web.app/',
     category: [PROJECT_CATEGORY.FULL_STACK],
   },
-
-  {
-    imgSrc: './assets/Image/ton-dex.png',
-    title: 'Dex on TON network',
-    description: 'Decentralized Exchange on TON network using React, Typescript, Tailwind CSS, FunC, Ston.fi SDK.',
-    repoLink: 'Private Repo',
-    sourceLink: 'https://forfriends.me',
-    category: [PROJECT_CATEGORY.Blockchain],
-  },
   {
     imgSrc: './assets/Image/mc2fi.png',
     title: 'MC² Finance',
