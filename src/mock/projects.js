@@ -29,8 +29,9 @@ const getSkillByLabel = (skills, techLabel) => skills.find(({ label }) => label 
 export const PROJECTS = [
   {
     imgSrc: './assets/Image/AStyleTapGame.png',
-    title: 'A Style Tap To Earn Game',
-    description: 'Typical Tap toEarn Game for A Style Brand',
+    title: 'A Style Tap To Earn Game (Telegram Mini App)',
+    description:
+      'A fun tap-to-earn game developed for A Style brand, featuring intuitive mechanics, full-stack integration, and seamless gameplay. Check out the repo and bot!',
     repoLink: 'https://github.com/AlterShadow/AStyleTapGame',
     sourceLink: 'https://t.me/astyletapbot',
     category: [PROJECT_CATEGORY.Blockchain, PROJECT_CATEGORY.FULL_STACK],
