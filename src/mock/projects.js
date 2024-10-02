@@ -28,6 +28,14 @@ const getSkillByLabel = (skills, techLabel) => skills.find(({ label }) => label 
 
 export const PROJECTS = [
   {
+    imgSrc: './assets/Image/AStyleTapGame.png',
+    title: 'A Style Tap To Earn Game',
+    description: 'Typical Tap toEarn Game for A Style Brand',
+    repoLink: 'https://github.com/AlterShadow/AStyleTapGame',
+    sourceLink: 'https://t.me/astyletapbot',
+    category: [PROJECT_CATEGORY.Blockchain, PROJECT_CATEGORY.FULL_STACK],
+  },
+  {
     imgSrc: './assets/Image/Uniton.png',
     title: 'Simple Staking on TON (Uniton APP)',
     description:
