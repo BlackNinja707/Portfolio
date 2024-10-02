@@ -1,6 +1,6 @@
 export const SOCIAL_LINKS = [
   {
-    link: 'https://twitter.com/ThomasKen111',
+    link: 'https://x.com/Thomaskendev111',
     icon: 'akar-icons:twitter-fill',
   },
   {
