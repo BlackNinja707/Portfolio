@@ -28,6 +28,15 @@ const getSkillByLabel = (skills, techLabel) => skills.find(({ label }) => label 
 
 export const PROJECTS = [
   {
+    imgSrc: './assets/Image/ResgirlBot.png',
+    title: 'Resistance Girl OTC Trading Bot',
+    description:
+      'Any verified jetton on TON blockchain (those having blue verification tick) can be traded for any verified jetton or TON/USDT!',
+    repoLink: 'https://github.com/AlterShadow/Resgirl_bot',
+    sourceLink: 'https://t.me/resgirl_bot',
+    category: [PROJECT_CATEGORY.Blockchain],
+  },
+  {
     imgSrc: './assets/Image/AStyleTapGame.png',
     title: 'A Style Tap To Earn Game (Telegram Mini App)',
     description:
