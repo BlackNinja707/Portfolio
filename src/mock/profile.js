@@ -8,7 +8,7 @@ export const SOCIAL_LINKS = [
     icon: 'akar-icons:github-fill',
   },
   {
-    link: 'https://t.me/Thomasdev111',
+    link: 'https://t.me/Thomasdev0x_111',
     icon: 'akar-icons:telegram-fill',
   },
 ];
