@@ -28,6 +28,15 @@ const getSkillByLabel = (skills, techLabel) => skills.find(({ label }) => label 
 
 export const PROJECTS = [
   {
+    imgSrc: './assets/Image/PearTapBot.png',
+    title: 'Pear Tap to Earn Bot',
+    description:
+      'A tap-to-earn bot built on the TON blockchain, supporting verified jetton trades. Users can seamlessly exchange any verified jetton with another or trade with TON/USDT, leveraging the security and verification features of TON',
+    repoLink: 'https://github.com/AlterShadow/Pear_Tap_Bot',
+    sourceLink: 'https://t.me/pear_tap_bot',
+    category: [PROJECT_CATEGORY.Blockchain, PROJECT_CATEGORY.FULL_STACK],
+  },
+  {
     imgSrc: './assets/Image/ResgirlBot.png',
     title: 'Resistance Girl OTC Trading Bot',
     description:
