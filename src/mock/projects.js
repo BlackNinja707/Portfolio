@@ -1,5 +1,3 @@
-import { BACKEND_SKILLS, FRONTEND_SKILLS } from './tech-skills';
-
 export const PROJECT_CATEGORY = {
   ALL: 'all',
   FULL_STACK: 'full-stack',
@@ -24,9 +22,16 @@ export const TABS = [
   },
 ];
 
-const getSkillByLabel = (skills, techLabel) => skills.find(({ label }) => label === techLabel);
-
 export const PROJECTS = [
+  {
+    imgSrc: './assets/Image/RipplesBuyBot.png',
+    title: 'RIPPLES Token Buy Bot on XRP',
+    description:
+      'A seamless buy bot built for the XRP Ledger, enabling users to securely purchase RIPPLES tokens. It offers an intuitive interface and leverages the XRP Ledger’s speed and reliability to facilitate fast and secure transactions.',
+    repoLink: 'https://github.com/AlterShadow/XRP-BuyBot/',
+    sourceLink: 'https://t.me/RIPPLESXRPBuyBot',
+    category: [PROJECT_CATEGORY.Blockchain, PROJECT_CATEGORY.FULL_STACK],
+  },
   {
     imgSrc: './assets/Image/PearTapBot.png',
     title: 'Pear Tap to Earn Bot',
