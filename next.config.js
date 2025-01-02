@@ -1,11 +1,10 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
-  env: {
-    EMAIL_SERVICE_ID: process.env.EMAIL_SERVICE_ID,
-    EMAIL_TEMPLATE_ID: process.env.EMAIL_TEMPLATE_ID,
-    PUBLIC_KEY: process.env.PUBLIC_KEY,
+const path = require('path')
+ 
+module.exports = {
+  sassOptions: {
+    includePaths: [path.join(__dirname, 'styles')],
   },
-};
-
-module.exports = nextConfig;
+  images: {
+    domains: ['res.cloudinary.com', 'media.dev.to']
+  }
+}
