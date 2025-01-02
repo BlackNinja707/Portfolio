@@ -56,7 +56,9 @@ function Experience() {
                       </div>
                       <div className="flex items-center gap-x-8 px-3 py-5">
                         <div className="text-violet-500  transition-all duration-300 hover:scale-125">
-                          <img src={"/experience/"+experience.icon+".png"} width={36}/>
+                          <picture>
+                            <img src={"/experience/"+experience.icon+".png"} width={36} alt="experience"/>
+                          </picture>
                         </div>
                         <div>
                           <p className="text-base sm:text-xl mb-2 font-medium uppercase">

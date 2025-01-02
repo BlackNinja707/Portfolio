@@ -61,7 +61,9 @@ function Education() {
                       </div>
                       <div className="flex items-center gap-x-8 px-3 py-5">
                         <div className="text-violet-500  transition-all duration-300 hover:scale-125">
-                          <img src="/image/tohoku.png" style={{width:"36px"}}/>
+                          <picture>
+                            <img src="/image/tohoku.png" style={{width:"36px"}} alt="tohoku"/>
+                          </picture>
                         </div>
                         <div>
                           <p className="text-base sm:text-xl mb-2 font-medium uppercase">
