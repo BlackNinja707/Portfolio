@@ -15,7 +15,6 @@ export const skillsData = [
   'PostgreSQL',
   'Laravel',
   'Django',
-  'Node JS',
   "Python",
   'Git',
   'AWS',

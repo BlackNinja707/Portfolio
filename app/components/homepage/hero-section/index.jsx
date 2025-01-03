@@ -135,8 +135,6 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Angular</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">NodeJS</span>
-                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Python</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Figma</span>
