@@ -8,6 +8,7 @@ export const personalData = {
   github: 'https://github.com/BlackNinja707',
   facebook: 'https://www.facebook.com',
   twitter: 'https://twitter.com/H_Tanaka98',
-  resume: "https://drive.google.com/file/d/1Mfx2wp4vWRvrz65TqFoHMKYHG6mnnbbR/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1OnQvGFVlkRWXtRHoWJ5tqamOwcD0Qu9G/view?usp=sharing",
   telegram: "https://t.me/HarukiTan"
+  
 }
